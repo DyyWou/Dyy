@@ -1,13 +1,13 @@
-global.you = ['6285878178292'] 
+global.you = ['6285881711205'] 
 //Developer Bot
-global.namebot = 'Katsu BOTZ'
-global.rowner = ['6285878178292', '6285878178292'] // Real Owner Bot
-global.owner = ['6285878178292'] // Owner Bot
-global.police = ['6285878178292'] // Police Bot
-global.mods = ['6285878178292']  // Want some help?
-global.prems = ['6285878178292'] // Premium user has unlimited limit
+global.namebot = 'Dyy BOTZ'
+global.rowner = ['6285881711205', '6285881711205'] // Real Owner Bot
+global.owner = ['6285881711205'] // Owner Bot
+global.police = ['6285881711205'] // Police Bot
+global.mods = ['6285881711205']  // Want some help?
+global.prems = ['6285881711205'] // Premium user has unlimited limit
 
-global.helper = ['6285878178292']
+global.helper = ['6285881711205']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -80,13 +80,13 @@ global.fpagedoc = '444'
 global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/KatsuXD55/SCZ"
 global.sgc = 'https://chat.whatsapp.com/JJ5jttEsYpAF2zvxkwAanN'
 global.gc = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/JJ5jttEsYpAF2zvxkwAanN'
-global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/katsubotz_official'
-global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@katsuxdofficial'
+global.instagram = '-'
+global.ytowner = '-'
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/JJ5jttEsYpAF2zvxkwAanN'
 // Sticker WM
-global.packname = 'KatsuXD Official'
-global.author = 'KatsuXD Official'
-global.wm = '© Katsu BOTZ'
+global.packname = 'Dyy Official'
+global.author = 'Dyy Official'
+global.wm = '© Dyy BOTZ'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
